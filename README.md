@@ -19,4 +19,4 @@ Esse trabalho foi sobre árvores, ele está sendo mandado para o verde em 01/202
 
 Nesse TP a função para ordenar Strings em ordem alfabetica foi concertada.
 
-## **Desenvolvido** por: Vinícius Henrique Giovanini
+# **Desenvolvido** por: Vinícius Henrique Giovanini ✏
